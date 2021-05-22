@@ -1,5 +1,6 @@
 # Task: To sort an unsorted array using bubblesort
-
+#Time complexity = O(n^2)
+#Space complexity = O(1)
 
 def bubble_sort(inputArr):
     #Declare the array as unsorted
