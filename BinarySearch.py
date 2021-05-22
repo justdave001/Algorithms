@@ -3,6 +3,8 @@
 """
 Task: To find the position of a target number in an array
 """
+#Time complexity = O(log(n))
+#Space complexity = O(1)
 #Array must be sorted to get most accurate results
 def binary_search(array, target):
 
